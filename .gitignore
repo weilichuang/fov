@@ -1,6 +1,5 @@
-packages
-.packages
-build/
+bin/
+obj/
 
 # Intellij stuff.
 .idea
